@@ -13,3 +13,9 @@
 - ☁️ Studied serverless functions, including Cloudflare Workers and Wrangler.
 - 🔐 Created an HTTPS server using Hono for a Node.js backend.
 - 🚀 Deployed the Node.js backend app to a cloud platform.
+
+## April 2, 2025
+- ☁️ Created an AWS account and explored AWS services.
+- 🚀 Set up an EC2 instance and deployed a Node.js backend.
+- 🔄 Learned about proxy and reverse proxy concepts.
+- 🔥 Configured and studied Nginx as a web server and reverse proxy.
