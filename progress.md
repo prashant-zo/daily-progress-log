@@ -19,3 +19,9 @@
 - 🚀 Set up an EC2 instance and deployed a Node.js backend.
 - 🔄 Learned about proxy and reverse proxy concepts.
 - 🔥 Configured and studied Nginx as a web server and reverse proxy.
+
+## April 4, 2025
+- ☁️ Learned more about AWS and EC2 setup.
+- 🔧 Explored NGINX configuration and use cases.
+- 🔐 Studied HTTPS certificate management using Certbot.
+- ✅ Successfully deployed a Node.js app on HTTPS with a valid SSL certificate.
