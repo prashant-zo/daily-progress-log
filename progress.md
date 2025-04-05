@@ -25,3 +25,10 @@
 - 🔧 Explored NGINX configuration and use cases.
 - 🔐 Studied HTTPS certificate management using Certbot.
 - ✅ Successfully deployed a Node.js app on HTTPS with a valid SSL certificate.
+
+## April 5, 2025
+- 📦 Learned how AWS S3 is used for storing frontend build files as objects and how CDNs (CloudFront) distribute them efficiently.
+- 🚀 Understood and implemented the full deployment flow: building a React app, uploading it to S3, connecting it to CloudFront, and serving it via a custom domain.
+- 🌐 Learned to configure SSL certificates using AWS Certificate Manager and connect domains securely.
+- 🧠 Understood why distribution cost is higher than storage and why backend services are not served via CDNs.
+- 🛠️ Got a glimpse of adding DevOps practices like error pages and cache invalidation to production-ready frontend deployments.
