@@ -32,3 +32,11 @@
 - 🌐 Learned to configure SSL certificates using AWS Certificate Manager and connect domains securely.
 - 🧠 Understood why distribution cost is higher than storage and why backend services are not served via CDNs.
 - 🛠️ Got a glimpse of adding DevOps practices like error pages and cache invalidation to production-ready frontend deployments.
+
+## April 7, 2025
+- 🧠 Learned advanced TypeScript utility types like Pick, Partial, Readonly, Record, and Exclude.
+- 🔍 Explored type inference and validation using Zod.
+- 🐳 Installed Docker and understood its purpose for containerization.
+- 📦 Explored image vs container concepts and common Docker commands.
+- 🗃️ Ran MongoDB and PostgreSQL locally using Docker.
+- ✅ Tested backend code with local databases using Docker containers.
