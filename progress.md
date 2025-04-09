@@ -40,3 +40,12 @@
 - 📦 Explored image vs container concepts and common Docker commands.
 - 🗃️ Ran MongoDB and PostgreSQL locally using Docker.
 - ✅ Tested backend code with local databases using Docker containers.
+
+## April 7, 2025
+- 🔗 Learned how to create Prisma relationships similar to SQL joins in PostgreSQL.
+- 🌐 Explored DB connection and connection pooling techniques.
+- 📚 Studied Prisma docs and deployed the backend to Cloudflare Workers.
+- 🚀 Learned about Prisma Accelerate and environment configuration (wrangler.toml vs .env).
+- 🛠️ Generated a Prisma client and tested API endpoints.
+- ☁️ Deep dive into Cloudflare deployment and project structure.
+- 💬 Worked on banter-chat-app, added backend logic and continued development.
